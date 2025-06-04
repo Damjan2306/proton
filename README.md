@@ -1,5 +1,6 @@
 # Prerequisites
 ######
+## this is for practise use only
 - JDK 21 
 - Maven 3.9 
 - MySQL 8
